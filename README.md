@@ -8,6 +8,7 @@ Ovaj program je specijaliziran za preimenovanje file-ova koji se koriste kada se
       2.U Construction upisete ime konstrukcije npr 6290
       3.U zonu upisete ime crtanja zone npr MZ04
       4.U date ako ostavite prazan on ce staviti danasnji datum,a ako se ispuni biti ce taj datum.
+      5. Replace > pokrecete program da preimenuje file-ove.
 
 
       Program preimenuje file-ove u DAT i DGN folderu.
