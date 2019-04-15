@@ -11,4 +11,6 @@ Ovaj program je specijaliziran za preimenovanje file-ova koji se koriste kada se
 
 
       Program preimenuje file-ove u DAT i DGN folderu.
-
+      
+      
+      U rar file-u DISEGNI se nalazi primjera radionickog nacrta gdje mozete testirati program.
